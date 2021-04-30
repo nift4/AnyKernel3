@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=flasho-kernel by Mohit.sh @ xda-developers
+kernel.string=flasho-kernel by flashokiller.jpg @ flashokiller
 do.devicecheck=1
 do.modules=0
 do.systemless=1
