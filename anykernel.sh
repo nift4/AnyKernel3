@@ -20,8 +20,8 @@ supported.patchlevels=
 '; } # end properties
 
 # shell variables
-block=/dev/block/platform/omap/omap_hsmmc.0/by-name/boot;
-is_slot_device=0;
+block=auto;
+is_slot_device=auto;
 ramdisk_compression=auto;
 
 
