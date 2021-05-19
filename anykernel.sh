@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=OptimKernel CI
+kernel.string=4.9 CI
 do.devicecheck=1
 do.modules=0
 do.systemless=1
@@ -15,7 +15,7 @@ device.name2=
 device.name3=
 device.name4=
 device.name5=
-supported.versions=10-11
+supported.versions=8.1
 supported.patchlevels=
 '; } # end properties
 
